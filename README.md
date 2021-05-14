@@ -9,7 +9,7 @@
 ![covid-dashboard-3-devices](https://user-images.githubusercontent.com/23439187/115303139-de94f580-a128-11eb-9028-3144d808ac00.png)
 
 ## About
-
+<summary>:zap: About</summary>
 > Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
 > At this time, there are no specific vaccines or treatments for COVID-19. The best way to prevent and slow down transmission is be **well informed** about the COVID-19 virus. [who.int](https://www.who.int/health-topics/coronavirus#tab=tab_1)
 
