@@ -17,7 +17,7 @@ The goal of this project is not to build *just another dashboard*. But, to focus
 
 ## Contributors
 
-Start contributing by going to [contributing.md](https://github.com/psmattas/covid19-dashboard/blob/master/contributing.md)
+Start contributing by going to [contributing.md](https://github.com/psavarmattas/covid19-dashboard/blob/master/contributing.md) to check for details.
 
 ## Getting Started
 
