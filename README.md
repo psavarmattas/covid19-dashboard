@@ -2,18 +2,21 @@
 ###### Don't forget to leave a [star ⭐!](https://github.com/psavarmattas/covid19-dashboard/stargazers?after=Y3Vyc29yOnYyOpO5MjAyMC0wNS0xM1QwOTo1MzoyMC0wNTowMADODRbOpg%3D%3D)
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/soroushchehresa/awesome-coronavirus#applications-and-bots)
-[![Build Status](https://img.shields.io/travis/TheAlgorithms/Python.svg?label=Travis%20CI&logo=travis)](https://travis-ci.com/github/psavarmattas/covid19-dashboard)
-[![MIT License](https://camo.githubusercontent.com/a307f74a14e41e762300323414ddef81f3d53ae2/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f736f757263657265722d696f2f736f757263657265722d6170702e7376673f636f6c6f72423d666630303030)](https://github.com/psavarmattas/covid19-dashboard/blob/master/LICENSE.md)
-[![Made with Pthon](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![Apache License](https://camo.githubusercontent.com/a307f74a14e41e762300323414ddef81f3d53ae2/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f736f757263657265722d696f2f736f757263657265722d6170702e7376673f636f6c6f72423d666630303030)](https://github.com/psavarmattas/covid19-dashboard/blob/master/LICENSE.md)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ![covid-dashboard-3-devices](https://user-images.githubusercontent.com/23439187/115303139-de94f580-a128-11eb-9028-3144d808ac00.png)
 
-## About
+<details>
+
 <summary>:zap: About</summary>
+
 > Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
 > At this time, there are no specific vaccines or treatments for COVID-19. The best way to prevent and slow down transmission is be **well informed** about the COVID-19 virus. [who.int](https://www.who.int/health-topics/coronavirus#tab=tab_1)
 
 The goal of this project is not to build *just another dashboard*. But, to focus on collaborative plot ideas, and a mobile friendly UI/UX. Feel free to open an issue requesting a type of plot, table, or any feature for that matter.
+
+</details>
 
 ## Contributors
 
