@@ -1,9 +1,9 @@
 # Covid 19 Interactive Dashboard
-###### Don't forget to leave a [star ⭐!](https://github.com/psmattas/covid19-dashboard/stargazers?after=Y3Vyc29yOnYyOpO5MjAyMC0wNS0xM1QwOTo1MzoyMC0wNTowMADODRbOpg%3D%3D)
+###### Don't forget to leave a [star ⭐!](https://github.com/psavarmattas/covid19-dashboard/stargazers?after=Y3Vyc29yOnYyOpO5MjAyMC0wNS0xM1QwOTo1MzoyMC0wNTowMADODRbOpg%3D%3D)
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/soroushchehresa/awesome-coronavirus#applications-and-bots)
-[![Build Status](https://img.shields.io/travis/TheAlgorithms/Python.svg?label=Travis%20CI&logo=travis)](https://travis-ci.com/github/psmattas/covid19-dashboard)
-[![MIT License](https://camo.githubusercontent.com/a307f74a14e41e762300323414ddef81f3d53ae2/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f736f757263657265722d696f2f736f757263657265722d6170702e7376673f636f6c6f72423d666630303030)](https://github.com/psmattas/covid19-dashboard/blob/master/LICENSE.md)
+[![Build Status](https://img.shields.io/travis/TheAlgorithms/Python.svg?label=Travis%20CI&logo=travis)](https://travis-ci.com/github/psavarmattas/covid19-dashboard)
+[![MIT License](https://camo.githubusercontent.com/a307f74a14e41e762300323414ddef81f3d53ae2/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f736f757263657265722d696f2f736f757263657265722d6170702e7376673f636f6c6f72423d666630303030)](https://github.com/psavarmattas/covid19-dashboard/blob/master/LICENSE.md)
 [![Made with Pthon](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 ![covid-dashboard-3-devices](https://user-images.githubusercontent.com/23439187/115303139-de94f580-a128-11eb-9028-3144d808ac00.png)
@@ -30,7 +30,7 @@ Start contributing by going to [contributing.md](https://github.com/psavarmattas
 
 Get the project up and running locally in just 5 easy steps.
 
-1. Create a personal [Fork](https://github.com/login?return_to=%2Fpsmattas%2Fcovid19-dashboard) of this repository.
+1. Create a personal [Fork](https://github.com/login?return_to=%2Fpsavarmattas%2Fcovid19-dashboard) of this repository.
 
 2. **Clone** the fork with HTTPS, using your local terminal to a preferred location, and **cd** into the project.
 
@@ -119,4 +119,4 @@ Date
 
 ## License
 
-[@MIT](https://github.com/psmattas/covid19-dashboard/blob/master/LICENSE.md)
+[@MIT](https://github.com/psavarmattas/covid19-dashboard/blob/master/LICENSE.md)
